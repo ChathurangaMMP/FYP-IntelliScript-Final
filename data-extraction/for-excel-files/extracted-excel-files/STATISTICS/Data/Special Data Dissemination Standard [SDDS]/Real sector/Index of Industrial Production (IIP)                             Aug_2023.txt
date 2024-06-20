@@ -1,0 +1,211 @@
+<new sheet>
+sheet_name: IIP
+
+,,,Index Number
+,2015,January,100
+,,February,100
+,,March,100
+,,April,100
+,,May,100
+,,June,100
+,,July,100
+,,August,100
+,,September,100
+,,October,100
+,,November,100
+,,December,100
+,2016,January,103.1
+,,February,102
+,,March,107.8
+,,April,97
+,,May,102.6
+,,June,105.2
+,,July,104.1
+,,August,103.6
+,,September,101.6
+,,October,104.7
+,,November,104.3
+,,December,103.3
+,2017,January,104.4
+,,February,103.4
+,,March,110.1
+,,April,98.3
+,,May,103.7
+,,June,104.4
+,,July,104.8
+,,August,109
+,,September,107.7
+,,October,108
+,,November,108.6
+,,December,107.7
+,2018,January,108.71152335658833
+,,February,103.58629082390864
+,,March,110.25411582679565
+,,April,97.65551812307258
+,,May,105.6840902246448
+,,June,105.01565437420113
+,,July,106.12763404669438
+,,August,109.25909101515863
+,,September,106.73543055625902
+,,October,110.84014345729454
+,,November,107.41948346331314
+,,December,109.00318008600445
+,2019,January,108.8
+,,February,104.2
+,,March,116.5
+,,April,96.9
+,,May,106.1
+,,June,107.5
+,,July,108.6
+,,August,112.2
+,,September,107.2
+,,October,112.1
+,,November,108.7
+,,December,108.5
+,2020,January,108.1
+,,February,104.2
+,,March,84.1
+,,April,50
+,,May,79.2
+,,June ,92.5
+,,July,111.3
+,,August,102.3
+,,September,108.8
+,,October,107.8
+,,November,106.9
+,,December,110.3
+,2021,January ,108.1
+,,February,99.2
+,,March,119.6
+,,April ,94.1
+,,May,93.2
+,,June ,97.4
+,,July ,109.9
+,,August ,105.7
+,,September ,100.2
+,,October,109.5
+,,November ,106.8
+,,December,107.4
+,2022(a),January,100.9
+,,February,101.2
+,,March,107.9
+,,April,87.3
+,,May,90.8
+,,June,96.5
+,,July,85.6
+,,August,90.7
+,,September,90.9
+,,October,86.6
+,,November,81
+,,December,80.2
+,2023(b),January,87.4
+,,February,84.1
+,,March,90.9
+,,April,80.1
+,,May,88
+,,June,90.1
+,,July,91.7
+,,August,90.2
+,Source: Dept. of Census & Statistics,,
+,(a) Revised,,
+,(b) Provisional,,
+
+<new sheet>
+sheet_name: FIPI
+
+,,,Index Number
+,2010,January,89.5707
+,,February,93.9517
+,,March,102.6609
+,,April,84.3233
+,,May,92.7919
+,,June,105.2573
+,,July,109.7191
+,,August,104.8676
+,,September,105.0903
+,,October,105.8396
+,,November,107.0851
+,,December,98.7626
+,2011,January,99.6
+,,February,96.7
+,,March,117.8
+,,April,92
+,,May,105.6
+,,June,111
+,,July,109.2
+,,August,113.1
+,,September,113.1
+,,October,110.5
+,,November,110.8
+,,December,106.6
+,2012,January,111.9726
+,,February,107.5609
+,,March,119.5457
+,,April,94.2639
+,,May,112.1021
+,,June,112.6787
+,,July,111.6888
+,,August,107.0189
+,,September,105.4826
+,,October,107.9592
+,,November,108.8499
+,,December,106.1861
+,2013(b),January,105.8177
+,,February,103.6438
+,,March,115.0752
+,,April,96.117
+,,May,106.6297
+,,June,109.1394
+,,July,111.295
+,,August,108.7316
+,,September,107.7536
+,,October,114.592
+,,November,111.6709
+,,December,108.7577
+,2014(b),January,107.2151
+,,February,106.98
+,,March,120.4522
+,,April,96.6938
+,,May,107.4016
+,,June,115.8481
+,,July,121.7655
+,,August,117.4539
+,,September,121.7351
+,,October,120.3033
+,,November,118.9391
+,,December,123.5949
+,2015(b),January,118.7301
+,,February,119.3307
+,,March,131.4164
+,,April,115.8019
+,,May,122.8671
+,,June,124.268
+,,July,132.542
+,,August,126.2853
+,,September,133.7427
+,,October,130.7249
+,,November,123.8594
+,,December,125.3389
+,2016(b),January,117.0421
+,,February,116.3658
+,,March,134.055
+,,April,102.6338
+,,May ,119.9114
+,,June ,125.8485
+,,July,124.5588
+,,August,125.4643
+,,September,123.5586
+,,October,126.2825
+,,November,121.0619
+,,December,126.6419
+,2017(c),January,123.4566
+,,February,117.9005
+,,March,138.8752
+,,April,91.2711
+,,May,106.7804
+,,June,126.3583
+,Source: Central Bank of Sri Lanka,,
+,(a) FIPI is calculated on the basis of information received from 114 major industrial firms with the base year 2010.,,
+,(b) Revised,,
+,(c) Provisional,,
+

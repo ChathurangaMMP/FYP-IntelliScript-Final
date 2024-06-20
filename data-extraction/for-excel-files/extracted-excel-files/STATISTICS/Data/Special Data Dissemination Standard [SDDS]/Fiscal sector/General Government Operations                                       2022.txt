@@ -1,0 +1,30 @@
+<new sheet>
+sheet_name: Gen. Gov. Op.
+"​Central Bank of Sri Lanka. Economic Research Department.Sri Lanka: Economic and Financial
+Data Special
+Data Dissemination Standard [SDDS]
+Historical Data Series [2008-2020]​ : General Government Operations ",,,,,,,,,,,,,,,,,,,,,,,
+
+
+SDDS data category and component,Unit of description,2000,2001,2002,2003,2004,2005,2006,2007,2008.0,2009.0,2010.0,2012.0,2013.0,2014.0,2015.0,2016.0,2017.0,2018.0,2019 (b),2020.0,2021 (C ),2022 (c)(d)
+​​FISCAL SECTOR,,,,,,,,,,,,,,,,,,,,,,,
+General Government Operations​  (a),,,,,,,,,,,,,,,,,,,,,,,
+Total Revenue and Grants​,Rs. million,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,736823.0,776366.0,891886.0,1144997.0,1230338.0,1298454.0,1559678.0,1811746.4428161301,1963104.0,2059743.0,2034352,1475276.0,1568129.34729942,2086382
+Total Revenue​,Rs. million​,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,705601.0,750444.0,874977.0,1128926.0,1214479.0,1289039.0,1553664.0,1804250.46950174,1955073.0,2047257.0,2026443,1469928.0,1561389.80204759,2052977
+Tax Revenue​,Rs. million,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,615603.0,647500.0,759691.0,954536.0,1054144.0,1110080.0,1424709.0,1544624.86065882,1756045.0,1805502.0,1828803,1271894.0,1365182.05995181,1811026
+Non Tax Revenue​,Rs. million,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,89998.0,102944.0,115286.0,174390.0,160336.0,178959.0,128955.0,259625.60884292002,199028.0,241756.0,197640,198033.0,196207.74209578,241951
+Grants,Rs. million,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,31222.0,25922.0,16909.0,16071.0,15859.0,9415.0,6014.0,7495.97331439,8031.08750874,12486.0,7909,5348.0,6739.54525183,33405
+Total Expenditure ,Rs. million,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,1044820.0,1254990.0,1339237.0,1633994.0,1746429.0,1889698.0,2389180.0,2452071.2405929095,2696598.0,2820512.0,3473440,3142964.0,3626054.48248791,4546349.421
+Recurrent Expenditure,Rs. million,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,780303.0,922729.0,982583.0,1195144.0,1267238.0,1384385.0,1772522.0,1851722.7689821199,2024239.0,2187972.0,2534586,2608367.0,2814052.1398809,3603683
+of which Interest Payments,Rs. million,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,212475.0,309675.0,352592.0,408498.0,444007.0,436395.0,509674.0,610894.5708787099,735565.67671092,852190.0,901352,980302.0,1048382.44051515,1565190
+Capital Expenditure and Net Lending,Rs. million,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,264517.0,332261.0,356654.0,438850.0,479191.0,505313.0,616657.0,600348.4716107895,672359.0,632540.0,938854,534597.0,812002,942663
+Overall Fiscal Surplus (+)/Deficit (-),Rs. million,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,-307997.0,-478624.0,-447351.0,-488967.0,-516090.0,-591244.0,-829502.0,-640324.7977767794,-733494.4925738217,-760769.0,-1439088,-1667688.0,-2057925.13518849,-2459967.421
+
+​​ ​ ​ ​ ​ ​ ​ ​,,,,,,,,,,,,,,,,,,,,,,,
+"(a) Includes Central Government, provincial councils and local governments fiscal operations",,,,,,,,,,,,,,,,,,,,,,,
+"(b) According to the Ministry of Finance, the fiscal sector statistics of 2019 have been restated as announced in the Budget Speech for 2020.",,,,,,,,,,,,,,,,,,,,,,,
+(c ) Provisional,,,,,,,,,,,,,,,,,,,,,,,
+(d) Includes only Central Government and provincial councils data as Local Government data are not available,,,,,,,,,,,,,,,,,,,,,,,
+"Sources:  Ministry of Finance, Economic Stabilisation & National Policies",,,,,,,,,,,,,,,,,,,,,,,
+"                     Ministry of Public Administration, Home Affairs, Provincial Councils and Local Government",,,,,,,,,,,,,,,,,,,,,,,
+
