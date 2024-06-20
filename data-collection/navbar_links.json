@@ -1,0 +1,200 @@
+{
+  "ABOUT": {
+    "About the Bank": {
+      "Overview": "https://www.cbsl.gov.lk/en/about/about-the-bank/overview",
+      "History": "https://www.cbsl.gov.lk/en/about/about-the-bank/bank-history",
+      "Vision, Mission & Values": "https://www.cbsl.gov.lk/en/about/about-the-bank/vision-mission-values",
+      "Objectives": "https://www.cbsl.gov.lk/en/about/about-the-bank/objectives",
+      "Functions": "https://www.cbsl.gov.lk/en/about/about-the-bank/functions"
+    },
+    "Organisational Structure": {
+      "Corporate Structure": "https://www.cbsl.gov.lk/en/about/organisational-structure/corporate-structure",
+      "Principal Officers": "https://www.cbsl.gov.lk/en/about/organisational-structure/principal-officers",
+      "Departments": "https://www.cbsl.gov.lk/en/about/organisational-structure/departments"
+    },
+    "Bank Premises": {
+      "Bank Headquarters": "https://www.cbsl.gov.lk/en/about/bank-premises/bank-headquarters",
+      "Regional Offices": "https://www.cbsl.gov.lk/en/about/bank-premises/regional-offices",
+      "Library & Information Center": "https://www.cbsl.gov.lk/en/about/bank-premises/library-and-information-centre",
+      "Centre For Banking Studies": "https://www.cbsl.gov.lk/en/about/bank-premises/centre-for-banking-studies",
+      "The Economic History Museum of Sri Lanka": "https://www.cbsl.gov.lk/en/about/bank-premises/economic-history-museum"
+    }
+  },
+  "MONETARY POLICY": {
+    "About Monetary Policy": {
+      "Overview": "https://www.cbsl.gov.lk/en/monetary-policy/about-monetary-policy",
+      "Economic and Price Stability": "https://www.cbsl.gov.lk/en/monetary-policy/about-monetary-policy#eps",
+      "Monetary Policy Framework": "https://www.cbsl.gov.lk/en/monetary-policy/about-monetary-policy#mpf"
+    },
+    "Instruments & Implementation": {
+      "Policy Rates and Open Market Operations": "https://www.cbsl.gov.lk/en/monetary-policy/instruments-and-implementation/monetary-policy-instruments-and-implementation",
+      "Statutory Reserve Requirement": "https://www.cbsl.gov.lk/en/monetary-policy/instruments-and-implementation/monetary-policy-instruments-and-implementation#srr",
+      "Other Policy Instruments": "https://www.cbsl.gov.lk/en/monetary-policy/instruments-and-implementation/monetary-policy-instruments-and-implementation#opi",
+      "Monetary Policy Committee": "https://www.cbsl.gov.lk/en/monetary-policy/instruments-and-implementation/monetary-policy-committies",
+      "Stakeholder Engagement Committee": "https://www.cbsl.gov.lk/en/monetary-policy/instruments-and-implementation/monetary-policy-committies#sec"
+    },
+    "Monetary Policy Communication": {
+      "Overview": "https://www.cbsl.gov.lk/en/monetary-policy/monetary-policy-communication/overview",
+      "Monetary Policy Announcement Dates": "https://www.cbsl.gov.lk/en/monetary-policy/monetary-policy-communication/monetary-policy-announcements",
+      "Monetary Policy Advance Release Calendar": "https://www.cbsl.gov.lk/en/monetary-policy/monetary-policy-communication/monetary-policy-advance-release-calendar",
+      "": "https://www.cbsl.gov.lk/en/publications/economic-and-financial-reports/monetary-policy-reports"
+    }
+  },
+  "FINANCIAL SYSTEM": {
+    "Financial System Stability": {
+      "Overview": "https://www.cbsl.gov.lk/en/financial-system/financial-system-stability/overview",
+      "Major Functions": "https://www.cbsl.gov.lk/en/financial-system/financial-system-stability/major-functions",
+      "Banking Sector": "https://www.cbsl.gov.lk/en/financial-system/financial-system-stability/banking-sector",
+      "Non Bank Finance and Leasing Sector": "https://www.cbsl.gov.lk/en/financial-system/financial-system-stability/non-bank-finance-and-leasing-sector",
+      "Primary Dealers": "https://www.cbsl.gov.lk/en/financial-system/financial-system-stability/primary-dealers",
+      "Microfinance Sector": "https://www.cbsl.gov.lk/en/financial-system/financial-system-stability/microfinance-sector",
+      "Money Broking Industry": "https://www.cbsl.gov.lk/en/financial-system/financial-system-stability/regulation-of-authorized-money-brokers",
+      "Macroprudential Surveillance": "https://www.cbsl.gov.lk/en/financial-system/financial-system-stability/macroprudential-surveillance"
+    },
+    "Financial Markets": {
+      "Financial Markets Overview": "https://www.cbsl.gov.lk/en/financial-system/financial-markets/overview",
+      "Interbank Call money Market": "https://www.cbsl.gov.lk/en/financial-system/financial-markets/interbank-call-money-market",
+      "Domestic Foreign Exchange Market": "https://www.cbsl.gov.lk/en/financial-system/financial-markets/domestic-foreign-exchange-market",
+      "Government Securities Market": "https://www.cbsl.gov.lk/en/financial-system/financial-markets/government-securities-market",
+      "Corporate Debt Securities Market": "https://www.cbsl.gov.lk/en/financial-system/financial-markets/corporate-debt-securities-market",
+      "Equity Market": "https://www.cbsl.gov.lk/en/financial-system/financial-markets/colombo-stock-exchange-share-equity-market",
+      "Development Finance and Access to Finance": "https://www.cbsl.gov.lk/en/financial-system/financial-markets/development-finance-and-access-to-finance"
+    },
+    "Financial Infrastructure": {
+      "Payment and Settlement Systems": "https://www.cbsl.gov.lk/en/financial-system/financial-infrastructure/payments-and-settlements-systems",
+      "Credit Information": "https://www.cbsl.gov.lk/en/financial-system/financial-infrastructure/credit-information",
+      "Laws and Regulations": "https://www.cbsl.gov.lk/en/financial-system/financial-infrastructure/laws-and-regulations-for-financial-Infrastructure"
+    },
+    "Instruments & Implementation": {
+      "Financial Instuments Overview": "https://www.cbsl.gov.lk/en/financial-system/financial-instruments/financial-instruments",
+      "Financial System Stability Committee": "https://www.cbsl.gov.lk/en/fssc",
+      "Financial System Oversight Council": "https://www.cbsl.gov.lk/en/fsoc"
+    }
+  },
+  "NOTES & COINS": {
+    "Notes & Coins": {
+      "Current Note Series": "https://www.cbsl.gov.lk/en/notes-coins/notes-and-coins/current-note-series",
+      "Coins in Circulation": "https://www.cbsl.gov.lk/en/notes-coins/notes-and-coins/coins-in-circulation",
+      "Commemorative Coins and Notes": "https://www.cbsl.gov.lk/en/notes-coins/notes-and-coins/commemorative-coins-and-notes",
+      "Security Features of Notes": "https://www.cbsl.gov.lk/en/notes-coins/notes-and-coins/security-features-of-notes",
+      "Currency Management": "https://www.cbsl.gov.lk/en/notes-coins/notes-and-coins/currency-management",
+      "History of Currency in Sri Lanka": "https://www.cbsl.gov.lk/en/notes-coins/notes-and-coins/history-of-currency-in-sri-lanka"
+    },
+    "Damaged Notes and Counterfeits": {
+      "Unfit, Altered and Mutilated Bank Notes": "https://www.cbsl.gov.lk/en/notes-coins/damaged-notes-and-counterfeits/unfit-altered-and-mutilated-bank-notes",
+      "Exchanging Damaged Notes": "https://www.cbsl.gov.lk/en/notes-coins/damaged-notes-and-counterfeits/exchanging-damaged-notes",
+      "Counterfeit Prevention": "https://www.cbsl.gov.lk/en/notes-coins/damaged-notes-and-counterfeits/counterfeit-prevention",
+      "Using Bank Note Images": "https://www.cbsl.gov.lk/en/notes-coins/damaged-notes-and-counterfeits/using-bank-notes-images",
+      "More Information": "https://www.cbsl.gov.lk/en/notes-coins/damaged-notes-and-counterfeits/more-information"
+    }
+  },
+  "LAWS": {
+    "Acts": {
+      "Central Bank of Sri Lanka Act": "https://www.cbsl.gov.lk/en/laws/acts/legislative-enactments",
+      "Monetary Law Act": "https://www.cbsl.gov.lk/en/laws/acts/legislative-enactments",
+      "Banking": "https://www.cbsl.gov.lk/en/laws/acts/legislative-enactments#Banking",
+      "Non-Banking": "https://www.cbsl.gov.lk/en/laws/acts/legislative-enactments#NonBanking",
+      "Micro Finance": "https://www.cbsl.gov.lk/en/laws/acts/legislative-enactments#MicroFinance",
+      "Foreign Exchange": "https://www.cbsl.gov.lk/en/laws/directions-circulars-guidelines-on-foreign-exchange",
+      "Employee Provident Fund (EPF)": "https://www.cbsl.gov.lk/en/laws/acts/legislative-enactments#EmployeeProvidentFund",
+      "Other": "https://www.cbsl.gov.lk/en/laws/acts/legislative-enactments#Other"
+    },
+    "Directions, Circulars and Guidelines": {
+      "Banking": "https://www.cbsl.gov.lk/en/laws/directions-circulars-guidelines-for-banks",
+      "Non-Banking": "https://www.cbsl.gov.lk/en/laws/directions-circulars-guidelines-for-non-banks",
+      "Foreign Exchange": "https://www.cbsl.gov.lk/en/laws/directions-circulars-guidelines-on-foreign-exchange",
+      "International Operations": "https://www.cbsl.gov.lk/en/laws/directions-circulars-guidelines-on-international-operations",
+      "Payments and Settlements": "https://www.cbsl.gov.lk/en/laws/directions-circulars-guidelines-on-payments-and-settlements",
+      "Domestic Operations": "https://www.cbsl.gov.lk/en/laws/directions-circulars-guidelines-on-domestic-operations",
+      "Public Debt": "https://www.cbsl.gov.lk/en/laws/directions-circulars-guidelines-on-public-debt",
+      "Micro Finance": "https://www.cbsl.gov.lk/en/laws/directions-circulars-guidelines-for-micro-fianace-institutions",
+      "Resolution and Enforcement": "https://www.cbsl.gov.lk/en/laws/directions-circulars-guidelines-on-resolution-and-enforcement",
+      "Financial Consumer Protection": "https://www.cbsl.gov.lk/en/laws/financial-consumer-protection"
+    }
+  },
+  "STATISTICS": {
+    "Statistical Tables": {
+      "Real Sector": "https://www.cbsl.gov.lk/en/statistics/statistical-tables/real-sector",
+      "External Sector": "https://www.cbsl.gov.lk/en/statistics/statistical-tables/external-sector",
+      "Fiscal Sector": "https://www.cbsl.gov.lk/en/statistics/statistical-tables/fiscal-sector",
+      "Monetary Sector": "https://www.cbsl.gov.lk/en/statistics/statistical-tables/monetary-sector",
+      "Financial Sector": "https://www.cbsl.gov.lk/en/statistics/statistical-tables/financial-sector"
+    },
+    "Economic Indicators": {
+      "Daily Price Report": "https://www.cbsl.gov.lk/en/statistics/economic-indicators/price-report",
+      "Daily Indicators": "https://www.cbsl.gov.lk/en/statistics/economic-indicators/daily-indicators",
+      "Weekly Indicators": "https://www.cbsl.gov.lk/en/statistics/economic-indicators/weekly-indicators",
+      "Monthly Indicators": "https://www.cbsl.gov.lk/en/statistics/economic-indicators/monthly-indicators",
+      "Monthly Bulletin": "https://www.cbsl.gov.lk/en/statistics/economic-indicators/monthly-bulletin",
+      "Monthly Trade Bulletin": "https://www.cbsl.gov.lk/en/monthly-trade-bulletin",
+      "Macroeconomic Chart Pack": "https://www.cbsl.gov.lk/en/statistics/economic-indicators/macro-economic-chart-pack",
+      "Sri Lanka Prosperity Index": "https://www.cbsl.gov.lk/en/statistics/economic-indicators/srilanka-prosperity-index",
+      "Workers' Remittances and Labour Migration": "https://www.cbsl.gov.lk/en/quarterly-bulletin-of-workers-remittances-and-labour-migration"
+    },
+    "Business Surveys": {
+      "Purchasing Managers' Index": "https://www.cbsl.gov.lk/en/statistics/business-surveys/sl-purchasing-managers-index-survey",
+      "Business Outlook Survey": "https://www.cbsl.gov.lk/en/statistics/business-surveys/business-outlook-survey",
+      "Survey on Credit Supply": "https://www.cbsl.gov.lk/en/survey-on-credit-supply",
+      "Condominium Market Survey": "https://www.cbsl.gov.lk/en/condominium-market-survey"
+    },
+    "Data": {
+      "SDDS National Summary Data": "https://www.cbsl.gov.lkhttp://erd.cbsl.gov.lk ",
+      "Economic Data Library": "https://www.cbsl.gov.lkhttps://www.cbsl.lk/eresearch"
+    }
+  },
+  "PRESS": {
+    "Press Releases": {
+      "Government Securities": "https://www.cbsl.gov.lk/en/press/press-releases/government-securities",
+      "Monetary Policy Review": "https://www.cbsl.gov.lk/en/press/press-releases/monetary-policy-review",
+      "External Sector Performance": "https://www.cbsl.gov.lk/en/press/press-releases/external-sector-performance",
+      "Open Market Operations": "https://www.cbsl.gov.lk/en/press/press-releases/open-market-operations",
+      "Inflation": "https://www.cbsl.gov.lk/en/press/press-releases/inflation",
+      "Purchasing Managers Index Survey": "https://www.cbsl.gov.lk/en/press/press-releases/purchasing-managers-index-survey",
+      "Non-Bank Financial Institutions": "https://www.cbsl.gov.lk/en/press/press-releases/non-bank-financial-institutions",
+      "Other": "https://www.cbsl.gov.lk/en/press/press-releases/other"
+    },
+    "Media": {
+      "Notices": "https://www.cbsl.gov.lk/en/press/media/notices",
+      "Press Conferences": "https://www.cbsl.gov.lk/en/press/media/press-conferences",
+      "Speeches": "https://www.cbsl.gov.lk/en/Press/Media/Speeches",
+      "Interviews": "https://www.cbsl.gov.lk/en/interviews"
+    }
+  },
+  "PUBLICATIONS": {
+    "Economic and Financial Reports": {
+      "Monetary Policy Report": "https://www.cbsl.gov.lk/en/publications/economic-and-financial-reports/monetary-policy-reports",
+      "Annual Report": "https://www.cbsl.gov.lk/en/publications/economic-and-financial-reports/annual-reports",
+      "Financial System Stability Review": "https://www.cbsl.gov.lk/en/publications/economic-and-financial-reports/financial-system-stability-review",
+      "Financial Soundness Indicators": "https://www.cbsl.gov.lk/en/financial-soundness-indicators",
+      "Recent Economic Developments": "https://www.cbsl.gov.lk/en/publications/economic-and-financial-reports/recent-economic-developments",
+      "Central Bank of Sri Lanka Balance Sheet": "https://www.cbsl.gov.lk/en/cbsl-balance-sheet",
+      "Other Financial Publications": "https://www.cbsl.gov.lk/en/publications/economic-and-financial-reports/other-financial-publications"
+    },
+    "Periodicals": {
+      "Satahana": "https://www.cbsl.gov.lk/en/publications/economic-and-financial-reports/satahana",
+      "News Survey": "https://www.cbsl.gov.lk/en/Publications/Economic-and-Financial-Reports/News-Survey",
+      "Vaippaham": "https://www.cbsl.gov.lk/en/Publications/Economic-and-Financial-Reports/Vaippakam"
+    },
+    "Education": {
+      "Econ-Icon Quiz Program": "https://www.cbsl.gov.lk/en/publications/education/econ-icon-quiz-program",
+      "Thakshilawa": "https://www.cbsl.gov.lk/en/publications/education/thakshilawa",
+      "Awareness": "https://www.cbsl.gov.lk/en/awareness"
+    },
+    "Other Publications": {
+      "Statistical Publications": "https://www.cbsl.gov.lk/en/publications/other-publications/statistical-publications",
+      "Payments Bulletin": "https://www.cbsl.gov.lk/en/publications/other-publications/statistical-publications/payments-bulletin",
+      "Staff Studies": "https://www.cbsl.gov.lk/en/publications/other-publications/staff-study-series",
+      "Research Conference Proceedings": "https://www.cbsl.gov.lk/en/research/research/research-conference-proceedings",
+      "Public Awareness": "https://www.cbsl.gov.lk/en/publications/other-publications/public-awareness",
+      "Other Publications": "https://www.cbsl.gov.lk/en/publications/other-publications/other-publications"
+    }
+  },
+  "RESEARCH": {
+    "Research": {
+      "Staff Studies": "https://www.cbsl.gov.lk/en/publications/other-publications/staff-study-series",
+      "Research Conference Proceedings": "https://www.cbsl.gov.lk/en/research/research/research-conference-proceedings",
+      "Conferences, Seminars and Workshops": "https://www.cbsl.gov.lk/en/research/conferences-seminars-workshops",
+      "Information Series": "https://www.cbsl.gov.lk/en/publications/other-publications/information-series"
+    }
+  }
+}
